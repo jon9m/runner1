@@ -1,0 +1,11 @@
+VM1PCKYHWHOCVDM
+wv2tOnCLL0
+
+
+VM1PCKYHWHOCVDM@dar.amazon-digital-ftp.com
+
+
+
+C:\Users\malaka.sam\Downloads>pscp C:\Users\malaka.sam\Unity\SpaceShooter\TestScale\M1H83K5VUMTHVI-c
+atrun.apk VM1PCKYHWHOCVDM@dar.amazon-digital-ftp.com:
+VM1PCKYHWHOCVDM@dar.amazon-digital-ftp.com's password:
